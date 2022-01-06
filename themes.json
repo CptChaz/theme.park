@@ -65,7 +65,7 @@
         "retro-terminal": {
           "css": [
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/amber.css?sha=14c5060439078fc9632f96017d9716e8f84692af",
-            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=ccd27fb2c9787c4705bf7eb87d4e4e9693f6fe2e",
+            "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=1bf4d05077dd3269836741c9f074ba686055f3d8",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=112bc6d8269f609d2f85ff1c7ec779b06f349fcd",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
             "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/red.css?sha=8b77411d76907a64f6d8f6f368998d93e222b100",
@@ -403,7 +403,7 @@
           "retro-terminal": {
             "css": [
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/amber.css?sha=14c5060439078fc9632f96017d9716e8f84692af",
-              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=ccd27fb2c9787c4705bf7eb87d4e4e9693f6fe2e",
+              "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/green.css?sha=1bf4d05077dd3269836741c9f074ba686055f3d8",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/custom.css?sha=112bc6d8269f609d2f85ff1c7ec779b06f349fcd",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/retro-terminal-base.css?sha=860f370f1b8e25b26ab9bc45a73632de58c799ce",
               "https://theme-park.dev/css/addons/unraid/login-page/retro-terminal/red.css?sha=8b77411d76907a64f6d8f6f368998d93e222b100",
